@@ -1,4 +1,4 @@
-set host=https://c-scholz.github.io/ritual-signpack/<path_to_sources>
+set host=https://c-scholz.github.io/ritual-signpack/<path_to_sources>/
 del *.tga.loc
 del *.png.loc
 del *.webm.loc
