@@ -1,5 +1,4 @@
-# ritual-signpack
-Ritual SignPack for TrackMania
+# Ritual SignPack for TrackMania
 
 Get the zipped sign pack from the releases page.
 
